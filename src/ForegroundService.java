@@ -9,6 +9,7 @@ import android.app.NotificationManager;
 import android.os.IBinder;
 import android.os.Bundle;
 import android.annotation.TargetApi;
+import android.util.Log;
 
 public class ForegroundService extends Service {
     @Override
